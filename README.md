@@ -1,0 +1,2 @@
+### House price prediction
+This project utilizes data from Kaggle to build a machine learning model capable of predicting house prices based on various input parameters. The project not only focuses on data collection and preprocessing but also applies algorithms to optimize the model's accuracy. The final outcome is a prediction tool that can assist users in evaluating and making decisions related to the real estate market.
